@@ -1,0 +1,9 @@
+App.config
+# Ignorování Visual Studio složek
+.vs/
+# Ignorování bin a obj složek
+bin/
+obj/
+# Další běžné soubory
+*.user
+*.suo
